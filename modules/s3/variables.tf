@@ -4,7 +4,7 @@ variable "bucket_name" {
 }
 
 variable "bucket_tags" {
-  type = map()
+  type = map(string)
   default = {
     "terraform": "true", 
     "purpose": "",

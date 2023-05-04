@@ -7,8 +7,8 @@ module "s3_helper_bucket" {
 
 resource "aws_s3_object" "upload_scripts" {
   bucket = module.s3_helper_bucket.s3_bucket_id
-  for_each = fileset("../scripts/", "*")
+  for_each = fileset("../../scripts/", "**")
   key = each.value
-  source = "../scripts/${each.value}"
-  etag = filemd5("../scripts/${each.value}")
+  source = "../../scripts/${each.value}"
+  etag = filemd5("../../scripts/${each.value}")
 }
