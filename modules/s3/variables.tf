@@ -3,15 +3,16 @@ variable "bucket_name" {
   description  = "name to give the bucket"
 }
 
-variable "bucket_purpose" {
-  type         = string
-  description  = "default region for deployment"
+variable "bucket_tags" {
+  type = map()
+  default = {
+    "terraform": "true", 
+    "purpose": "",
+    "environment": "stage"
+  }
+  description  = "tags for the bucket"
 }
 
-variable "env" {
-  type         = string
-  description  = "The environment the bucket is deployed to"
-}
 
 variable "bucket_policy_actions" {
   type         = list(string)
@@ -32,7 +33,6 @@ variable "bucket_policy_effect" {
 
 variable "bucket_iam_principal_user_identifiers" {
   type         = list(string)
-  default      = [""]
   description  = "list of arn to give permission to interact with the bucket"
 }
 

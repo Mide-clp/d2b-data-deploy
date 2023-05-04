@@ -3,11 +3,7 @@ resource "aws_s3_bucket" "d2b_bucket" {
   bucket = var.bucket_name
   force_destroy = true
 
-  tags = {
-    "terraform": "true", 
-    "purpose": var.bucket_purpose,
-    "environment": var.env
-  }
+  tags = var.bucket_tags
 }
 
 resource "aws_s3_bucket_public_access_block" "d2b_bucket_block_public_access" {
