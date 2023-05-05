@@ -3,6 +3,7 @@ module "s3_helper_bucket" {
   bucket_name                           = var.helper_bucket_name
   bucket_tags                         = var.helper_bucket_tags
   bucket_iam_principal_user_identifiers = var.helper_bucket_arn
+   
 }
 
 resource "aws_s3_object" "upload_scripts" {

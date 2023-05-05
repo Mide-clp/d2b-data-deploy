@@ -31,13 +31,15 @@ variable "bucket_policy_effect" {
   description  = "The effects of the actions given"
 }
 
-variable "bucket_iam_principal_user_identifiers" {
-  type         = list(string)
-  description  = "list of arn to give permission to interact with the bucket"
-}
-
 variable "bucket_policy_sid" {
   type         = string
   default      = "AllowUsers"
   description  = "The effects of the actions given"
 }
+
+
+variable "bucket_iam_principal_user_identifiers" {
+  type         = list(string)
+  description  = "list of arn to give permission to interact with the bucket"
+}
+

@@ -4,6 +4,30 @@ variable "aws_region" {
   description  = "default region for deployment"
 }
 
+variable "bucket_policy_actions" {
+  type         = list(string)
+  default      = [ 
+             "s3:DeleteObject",
+             "s3:GetObject",
+             "s3:ListBucket",
+             "s3:PutObject"
+          ]
+  description  = "list of action policy to be assigned to the bucket"
+}
+
+variable "bucket_policy_effect" {
+  type         = string
+  default      = "Allow"
+  description  = "The effects of the actions given"
+}
+
+variable "bucket_policy_sid" {
+  type         = string
+  default      = "AllowUsers"
+  description  = "The effects of the actions given"
+}
+
+
 variable "raw_bucket_name" {
   type         = string
   default      = "d2b-mide-raw-layer"
