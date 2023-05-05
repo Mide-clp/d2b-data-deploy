@@ -7,6 +7,11 @@ on:
     branches:
       - main
 
+permissions:
+  id-token: write # This is required for requesting the JWT
+  contents: read  # This is required for actions/checkout
+
+
 jobs:
   deploy_storage_s3:
     runs-on: ubuntu-latest
@@ -18,11 +23,18 @@ jobs:
       - name: setup terraform cli
         uses: hashicorp/setup-terraform@v2
 
+      - name: configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          role-to-assume: ${{secrets.AWS_REGION}}
+          role-session-name: githubTerraSession
+          aws-region: ${{secrets.AWS_REGION}}
+
       - name: terraform init and plan
         run: |
             cd stage/storage/s3
             terraform init
-            terraform plan -out terraform.tfplan
+            terraform plan --out=terraform.tfplan
 
       - name: terraform apply
         run: terraform apply terraform.tfplan -auto-approve
