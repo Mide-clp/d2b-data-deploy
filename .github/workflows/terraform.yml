@@ -34,6 +34,7 @@ jobs:
         run: |
             cd stage/storage/s3
             terraform init
+            terraform plan
 
       
       - name: terraform init and plan lambda
