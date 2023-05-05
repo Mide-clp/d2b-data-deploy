@@ -30,11 +30,16 @@ jobs:
           role-session-name: githubTerraSession
           aws-region: ${{secrets.AWS_REGION}}
 
-      - name: terraform init and plan
+      - name: terraform init and plan s3
         run: |
             cd stage/storage/s3
             terraform init
-            terraform plan --out=terraform.tfplan
+
+      
+      - name: terraform init and plan lambda
+        run: |
+            cd stage/workflow/lambda
+            terraform init
 
       - name: terraform apply
         run: terraform apply terraform.tfplan -auto-approve
