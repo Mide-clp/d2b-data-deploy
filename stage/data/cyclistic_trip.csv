@@ -1,0 +1,600 @@
+﻿ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id
+89E7AA6C29227EFF,classic_bike,2/12/21 16:14,2/12/21 16:21,Glenwood Ave & Touhy Ave,525
+0FEFDE2603568365,classic_bike,2/14/21 17:52,2/14/21 18:12,Glenwood Ave & Touhy Ave,525
+E6159D746B2DBB91,electric_bike,2/9/21 19:10,2/9/21 19:19,Clark St & Lake St,KA1503000012
+B32D3199F1C2E75B,classic_bike,2/2/21 17:49,2/2/21 17:54,Wood St & Chicago Ave,637
+83E463F23575F4BF,electric_bike,2/23/21 15:07,2/23/21 15:22,State St & 33rd St,13216
+BDAA7E3494E8D545,electric_bike,2/24/21 15:43,2/24/21 15:49,Fairbanks St & Superior St,18003
+A772742351171257,classic_bike,2/1/21 17:47,2/1/21 17:48,LaSalle Dr & Huron St,KP1705001026
+295476889D9B79F8,classic_bike,2/11/21 18:33,2/11/21 18:35,Fairbanks St & Superior St,18003
+362087194BA4CC9A,classic_bike,2/27/21 15:13,2/27/21 15:36,LaSalle Dr & Huron St,KP1705001026
+21630F715038CCB0,classic_bike,2/20/21 8:59,2/20/21 9:17,LaSalle Dr & Huron St,KP1705001026
+A977EB7FE7F5CD3A,classic_bike,2/20/21 8:58,2/20/21 8:58,LaSalle Dr & Huron St,KP1705001026
+8B868B03D6753C2A,classic_bike,2/20/21 16:45,2/20/21 16:59,LaSalle Dr & Huron St,KP1705001026
+BD331D658B9D2C31,classic_bike,2/18/21 13:21,2/18/21 13:25,Glenwood Ave & Touhy Ave,525
+8DFEA9BAFE6BAA62,classic_bike,2/26/21 17:40,2/26/21 17:42,Lincoln Ave & Waveland Ave,13253
+27BE9F6E67AFD86C,classic_bike,2/6/21 14:40,2/6/21 14:55,Glenwood Ave & Touhy Ave,525
+9B790D47A0A0F7F1,classic_bike,2/19/21 23:25,2/20/21 0:10,Rush St & Hubbard St,KA1503000044
+3C2DF72600B1DE6C,classic_bike,2/18/21 23:20,2/19/21 0:01,Rush St & Hubbard St,KA1503000044
+48A8D07ED9C7065C,classic_bike,2/20/21 23:35,2/21/21 0:17,Rush St & Hubbard St,KA1503000044
+BBFF2AAA0A3A1A26,electric_bike,2/2/21 15:48,2/2/21 16:03,Winchester Ave & Elston Ave,KA1504000140
+030723CBA8CF05E7,classic_bike,2/23/21 7:44,2/23/21 7:48,Clinton St & Madison St,TA1305000032
+7DF4C2D21E1DDD46,classic_bike,2/9/21 14:00,2/9/21 14:30,Glenwood Ave & Touhy Ave,525
+2C4AF52044E874FC,electric_bike,2/26/21 18:16,2/26/21 18:27,Wells St & Huron St,TA1306000012
+6E944BAF2AB37023,classic_bike,2/24/21 17:09,2/24/21 17:38,Glenwood Ave & Touhy Ave,525
+3CDFBD181A0EDB00,classic_bike,2/23/21 11:28,2/23/21 11:32,Rush St & Hubbard St,KA1503000044
+96F92F578CD76F59,classic_bike,2/27/21 13:32,2/27/21 13:32,Wood St & Chicago Ave,637
+42B25557198348CC,classic_bike,2/23/21 16:05,2/23/21 16:20,Damen Ave & Cortland St,13133
+AD6C500EEAD6B929,classic_bike,2/27/21 16:14,2/27/21 16:59,Indiana Ave & Roosevelt Rd,SL-005
+3158E663B4F160EB,classic_bike,2/27/21 15:38,2/27/21 15:38,Southport Ave & Waveland Ave,13235
+78849DFCC4D4B7A0,classic_bike,2/28/21 13:31,2/28/21 14:47,Southport Ave & Waveland Ave,13235
+1F3946A6B0E9AC91,classic_bike,2/1/21 15:08,2/1/21 15:08,MLK Jr Dr & 29th St,TA1307000139
+F6ABBD3E1BDA78A6,classic_bike,2/11/21 11:46,2/11/21 11:46,MLK Jr Dr & 29th St,TA1307000139
+D5171DFF5A12AD19,classic_bike,2/2/21 17:27,2/2/21 17:28,MLK Jr Dr & 29th St,TA1307000139
+BFFC6C2C4695FF77,classic_bike,2/13/21 11:33,2/13/21 11:44,Clark St & Lake St,KA1503000012
+C92659AC52A6ED41,classic_bike,2/23/21 8:40,2/23/21 8:43,Glenwood Ave & Touhy Ave,525
+1912C41A49F978E3,classic_bike,2/10/21 12:43,2/10/21 13:18,Clark St & Ida B Wells Dr,TA1305000009
+BDC123B6A30860A1,classic_bike,2/27/21 12:47,2/27/21 13:09,Wells St & Huron St,TA1306000012
+E02AEC4FFF8DF297,classic_bike,2/13/21 17:12,2/13/21 17:38,Glenwood Ave & Touhy Ave,525
+E5C4460CD39EAD34,electric_bike,2/24/21 11:05,2/24/21 11:21,Stockton Dr & Wrightwood Ave,13276
+0CD1F34E95496D3B,classic_bike,2/26/21 17:25,2/26/21 17:40,Sheridan Rd & Montrose Ave,TA1307000107
+BC260AB096E30CB7,docked_bike,2/23/21 18:21,2/23/21 18:42,Stockton Dr & Wrightwood Ave,13276
+F0C6DBAE926D2E27,classic_bike,2/4/21 16:23,2/4/21 16:29,Larrabee St & Webster Ave,13193
+E3D38203A2D907DB,classic_bike,2/8/21 16:54,2/8/21 17:00,Wacker Dr & Washington St,KA1503000072
+5C25026CC6C966D6,classic_bike,2/2/21 17:28,2/2/21 17:35,Wacker Dr & Washington St,KA1503000072
+8EAB72F3A0BD2139,classic_bike,2/5/21 13:44,2/5/21 13:50,Wacker Dr & Washington St,KA1503000072
+8560483D60948267,classic_bike,2/28/21 12:12,2/28/21 12:26,Halsted St & Willow St,TA1307000166
+EFE823EAA736823F,classic_bike,2/24/21 15:50,2/24/21 16:00,Wood St & Taylor St (Temp),13285
+DE5CBAC199FDC636,electric_bike,2/24/21 19:39,2/24/21 19:47,Sheffield Ave & Fullerton Ave,TA1306000016
+6E345271C931DB4E,classic_bike,2/12/21 20:12,2/12/21 20:18,Clark St & Chicago Ave,13303
+C677AC23AA4E1BAA,classic_bike,2/24/21 7:57,2/24/21 8:03,Clark St & Lake St,KA1503000012
+C3DFA10982F8D4B5,classic_bike,2/27/21 16:03,2/27/21 17:02,Clark St & Lake St,KA1503000012
+B85742F1D28F6179,electric_bike,2/2/21 6:13,2/2/21 6:22,Clinton St & Madison St,TA1305000032
+89D1C7D9A2BC2BBA,electric_bike,2/26/21 6:12,2/26/21 6:20,Clinton St & Madison St,TA1305000032
+F75CCD879A9219BC,classic_bike,2/27/21 17:44,2/27/21 18:11,Clinton St & Madison St,TA1305000032
+1074229378EF6D33,classic_bike,2/24/21 10:36,2/24/21 11:10,Broadway & Thorndale Ave,15575
+710CF541AD1AABA3,electric_bike,2/3/21 18:36,2/3/21 18:45,Michigan Ave & 8th St,623
+530CA5B59EA471B0,classic_bike,2/27/21 16:41,2/27/21 17:16,Lincoln Ave & Addison St,TA1309000050
+6CF613521CA96CDE,classic_bike,2/22/21 16:51,2/22/21 17:02,Clinton St & Madison St,TA1305000032
+790D32CB7348D195,classic_bike,2/3/21 17:19,2/3/21 17:30,Clinton St & Madison St,TA1305000032
+46D7B56E473BF3F8,classic_bike,2/24/21 17:23,2/24/21 17:36,Wood St & Taylor St (Temp),13285
+AD148B0B6252DEA6,classic_bike,2/28/21 14:21,2/28/21 14:28,Wentworth Ave & 33rd St,15445
+F04E48B71443A99F,classic_bike,2/3/21 16:38,2/3/21 16:49,Racine Ave & 18th St,13164
+CE45E063516267CA,classic_bike,2/15/21 14:17,2/15/21 14:30,Racine Ave & 18th St,13164
+86D40C2390267476,classic_bike,2/13/21 10:19,2/13/21 10:34,Racine Ave & 18th St,13164
+9BE50F5B6230626C,classic_bike,2/19/21 17:11,2/19/21 17:24,Wells St & Hubbard St,TA1307000151
+78E784C65E813B9B,classic_bike,2/25/21 17:44,2/25/21 17:54,Wells St & Hubbard St,TA1307000151
+9D886BEBC47524E5,classic_bike,2/27/21 13:46,2/27/21 13:49,Peoria St & Jackson Blvd,13158
+2CD4CDCC4F422BAB,classic_bike,2/24/21 18:13,2/24/21 18:36,Michigan Ave & 18th St,13150
+A0B6978147D0DFFB,electric_bike,2/26/21 17:14,2/26/21 17:27,Indiana Ave & 31st St,TA1308000036
+2C6C66D034BE3917,classic_bike,2/26/21 17:15,2/26/21 17:27,Indiana Ave & 31st St,TA1308000036
+FF6E17F980F18343,classic_bike,2/24/21 17:38,2/24/21 17:43,Halsted St & Archer Ave,TA1308000013
+1696534FDFD15485,classic_bike,2/24/21 11:38,2/24/21 11:54,New St & Illinois St,TA1306000013
+898872C246156E5A,classic_bike,2/23/21 15:37,2/23/21 16:01,Ashland Ave & Division St,13061
+F323BF5C69DF04FA,classic_bike,2/27/21 14:45,2/27/21 14:58,Fort Dearborn Dr & 31st St,TA1307000048
+2544729C9DB4C814,classic_bike,2/3/21 19:42,2/3/21 19:48,Wallace St & 35th St,TA1308000045
+9080B3186E8CDDB9,classic_bike,2/27/21 16:03,2/27/21 16:06,Loomis St & Jackson Blvd,13206
+5E8BA137EA1376BC,classic_bike,2/26/21 20:19,2/26/21 20:24,Aberdeen St & Monroe St,13156
+62442EF00C994013,classic_bike,2/26/21 9:00,2/26/21 9:06,Aberdeen St & Monroe St,13156
+87F1AF4D19CA8F42,classic_bike,2/3/21 7:48,2/3/21 7:53,Morgan St & Lake St,TA1306000015
+AFA0D5E6BCCB4364,classic_bike,2/27/21 9:42,2/27/21 10:05,Dayton St & North Ave,13058
+11C6310ED2FD0CE9,classic_bike,2/22/21 16:37,2/22/21 16:43,Franklin St & Adams St (Temp),TA1309000008
+2F06F65EABD17D7E,classic_bike,2/11/21 17:36,2/11/21 17:44,Franklin St & Adams St (Temp),TA1309000008
+6A5BDE2561AC7246,electric_bike,2/24/21 16:41,2/24/21 16:47,Franklin St & Adams St (Temp),TA1309000008
+6252E65D43D61414,classic_bike,2/8/21 17:42,2/8/21 17:50,Franklin St & Adams St (Temp),TA1309000008
+56249EBD024F01E6,electric_bike,2/23/21 16:44,2/23/21 16:50,Franklin St & Adams St (Temp),TA1309000008
+BFE77F0BD82C4F4D,electric_bike,2/10/21 17:44,2/10/21 17:50,Franklin St & Adams St (Temp),TA1309000008
+A78A60313A802AB2,classic_bike,2/9/21 18:49,2/9/21 18:59,Franklin St & Adams St (Temp),TA1309000008
+21860CB63AF5A3D0,electric_bike,2/25/21 9:43,2/25/21 9:56,Wells St & Elm St,KA1504000135
+A52A7E6F7BBEC624,classic_bike,2/27/21 11:54,2/27/21 12:19,Dusable Harbor,KA1503000064
+259B1D9422046832,classic_bike,2/25/21 16:31,2/25/21 16:43,Orleans St & Merchandise Mart Plaza,TA1305000022
+57951942BDC4782D,classic_bike,2/25/21 7:25,2/25/21 7:39,Larrabee St & Division St,KA1504000079
+A55FA303EFBA96AC,classic_bike,2/26/21 9:12,2/26/21 9:20,Indiana Ave & 31st St,TA1308000036
+35CC9EFDE0A31D6E,classic_bike,2/27/21 13:55,2/27/21 14:06,Clark St & Montrose Ave,KA1503000022
+924BAC209DDAAA34,classic_bike,2/27/21 13:24,2/27/21 13:39,Wells St & Huron St,TA1306000012
+B05E2CA99767EB59,electric_bike,2/4/21 12:34,2/4/21 12:38,Wells St & Huron St,TA1306000012
+9918F22533E2A8B0,classic_bike,2/25/21 9:30,2/25/21 9:34,Rush St & Hubbard St,KA1503000044
+9AB118A6E255A7EB,classic_bike,2/12/21 18:04,2/12/21 18:13,Wood St & Taylor St (Temp),13285
+9018908CA88FCE22,classic_bike,2/27/21 13:53,2/27/21 14:06,Broadway & Berwyn Ave,13109
+295552D9A7141083,classic_bike,2/25/21 8:46,2/25/21 8:50,Clinton St & Madison St,TA1305000032
+9BB002D1D980F793,classic_bike,2/28/21 15:09,2/28/21 15:12,Rush St & Superior St,15530
+91D24DFE5737630A,classic_bike,2/2/21 11:36,2/2/21 11:50,Ashland Ave & Division St,13061
+85A5FD6D673B50B3,classic_bike,2/9/21 12:15,2/9/21 12:26,Daley Center Plaza,TA1306000010
+D7365F88CBE97AFF,classic_bike,2/3/21 15:48,2/3/21 15:57,Clark St & Chicago Ave,13303
+AFEF8955CC655882,classic_bike,2/3/21 9:20,2/3/21 9:31,New St & Illinois St,TA1306000013
+1A450B04A2EA74C3,classic_bike,2/22/21 14:35,2/22/21 14:58,Damen Ave & Cortland St,13133
+60B2EB910325DE0C,docked_bike,2/27/21 16:13,2/27/21 16:32,Clark St & Armitage Ave,13146
+2D5A5055572F29F9,classic_bike,2/3/21 8:41,2/3/21 8:47,Michigan Ave & 8th St,623
+79C101C4BBFB2782,classic_bike,2/1/21 16:09,2/1/21 16:15,Michigan Ave & 8th St,623
+3C9A9980F0D691C4,classic_bike,2/4/21 6:48,2/4/21 6:54,Loomis St & Jackson Blvd,13206
+BBC62E39EDB3F5FF,classic_bike,2/11/21 13:08,2/11/21 13:17,Broadway & Ridge Ave,15578
+87ECB2A96E6808B2,classic_bike,2/28/21 19:16,2/28/21 19:57,Clinton St & Madison St,TA1305000032
+A164800246059225,classic_bike,2/5/21 11:50,2/5/21 11:55,LaSalle St & Adams St,KA1503000034
+35D9382A23E0ACE2,classic_bike,2/28/21 16:48,2/28/21 16:58,Indiana Ave & Roosevelt Rd,SL-005
+6C4D77F52BF061A6,classic_bike,2/1/21 23:10,2/1/21 23:16,Lake Park Ave & 53rd St,KA1503000059
+D595CB0662B4A819,classic_bike,2/26/21 16:05,2/26/21 16:12,Michigan Ave & Lake St,TA1305000011
+E2BC31FABC70E4D0,classic_bike,2/25/21 17:28,2/25/21 18:10,Wacker Dr & Washington St,KA1503000072
+ADAF54B88350168E,classic_bike,2/4/21 10:13,2/4/21 10:19,State St & Pearson St,TA1307000061
+ED313B35173927BB,classic_bike,2/1/21 11:22,2/1/21 11:31,Wells St & Polk St,SL-011
+54D7BB2CFD418632,electric_bike,2/23/21 19:40,2/23/21 19:54,Wabash Ave & 9th St,TA1309000010
+8CCD4F176577CE28,classic_bike,2/5/21 23:15,2/5/21 23:22,Field Blvd & South Water St,15534
+A9B7EDB1720758D4,classic_bike,2/12/21 18:24,2/12/21 18:33,Field Blvd & South Water St,15534
+F5FEFB1587E75036,classic_bike,2/26/21 19:19,2/26/21 19:28,Field Blvd & South Water St,15534
+ADE82BA0E58F0BD7,classic_bike,2/26/21 16:55,2/26/21 17:14,Clarendon Ave & Leland Ave,TA1307000119
+EF70EAAD2F809047,classic_bike,2/27/21 11:32,2/27/21 11:33,State St & Randolph St,TA1305000029
+FDFF97E894194BDB,classic_bike,2/22/21 18:34,2/22/21 18:55,Lake Park Ave & 56th St,TA1309000063
+392D3DC04E0FC264,classic_bike,2/6/21 18:08,2/6/21 18:09,State St & Randolph St,TA1305000029
+276A91E1D0DDDC04,classic_bike,2/15/21 5:52,2/15/21 5:55,State St & Randolph St,TA1305000029
+B1BBC34772C04516,classic_bike,2/18/21 6:40,2/18/21 7:23,Lake Park Ave & 56th St,TA1309000063
+EC26377914E79C89,classic_bike,2/21/21 17:12,2/21/21 17:47,Clarendon Ave & Leland Ave,TA1307000119
+4F2906C9C69F6087,classic_bike,2/26/21 13:09,2/26/21 13:09,Lake Park Ave & 56th St,TA1309000063
+745BCEC8943619DD,classic_bike,2/15/21 6:33,2/15/21 6:33,Lake Park Ave & 56th St,TA1309000063
+8555029D85CDA86C,classic_bike,2/2/21 11:20,2/2/21 11:28,Rush St & Cedar St,KA1504000133
+5596269525750A1F,electric_bike,2/21/21 18:50,2/21/21 21:04,Dearborn St & Van Buren St,624
+FFDE87BEB4B3CAA9,docked_bike,2/27/21 17:28,2/27/21 17:58,South Shore Dr & 67th St,KA1503000029
+8B38A53BE9F8CCEE,classic_bike,2/9/21 18:48,2/9/21 18:57,Broadway & Sheridan Rd,13323
+49E8FCBE47EB8668,classic_bike,2/25/21 15:46,2/25/21 15:55,Clinton St & Madison St,TA1305000032
+D3856A02DAFE5A91,classic_bike,2/26/21 10:46,2/26/21 10:58,Damen Ave & Foster Ave,KA1504000149
+02F93949A7C7516C,classic_bike,2/2/21 15:02,2/2/21 15:13,LaSalle St & Jackson Blvd,TA1309000004
+CCFD5BABE6FB51FB,electric_bike,2/27/21 0:53,2/27/21 1:06,Leavitt St & Chicago Ave,18058
+CF962CAA55CF383D,electric_bike,2/1/21 19:15,2/1/21 19:47,Clinton St & Roosevelt Rd,WL-008
+B5660A233909E283,electric_bike,2/13/21 18:39,2/13/21 18:54,Clinton St & Roosevelt Rd,WL-008
+C159841C857D28E2,classic_bike,2/2/21 18:27,2/2/21 18:52,State St & 33rd St,13216
+70E75F0B60CB337E,classic_bike,2/3/21 20:20,2/3/21 20:28,Wood St & Milwaukee Ave,13221
+123312E3CE52672E,classic_bike,2/24/21 14:07,2/24/21 14:11,Eastlake Ter & Rogers Ave,523
+E77092DB8F91A894,classic_bike,2/27/21 14:04,2/27/21 14:45,Halsted St & Willow St,TA1307000166
+008266277FAD0901,classic_bike,2/8/21 10:07,2/8/21 10:22,Michigan Ave & 8th St,623
+4673BC7F332BDB47,classic_bike,2/2/21 17:40,2/2/21 18:16,Halsted St & Roscoe St,TA1309000025
+F103D1566B6FEB89,docked_bike,2/26/21 21:07,2/26/21 21:52,Michigan Ave & 8th St,623
+512EA2E78778F0CB,classic_bike,2/12/21 15:33,2/12/21 15:53,Eastlake Ter & Rogers Ave,523
+3ED701AA2F2AB376,classic_bike,2/9/21 14:58,2/9/21 15:27,Eastlake Ter & Rogers Ave,523
+4B75C688196119BE,classic_bike,2/13/21 17:53,2/13/21 18:03,Eastlake Ter & Rogers Ave,523
+8C56680CFB57C7A6,classic_bike,2/22/21 15:34,2/22/21 16:15,Michigan Ave & 8th St,623
+0F0FE26669E4D73F,electric_bike,2/27/21 14:48,2/27/21 16:28,Michigan Ave & 8th St,623
+D9CD35F175DDCE37,electric_bike,2/12/21 15:54,2/12/21 16:07,Damen Ave & Charleston St,13288
+0BCFF30A58B46076,classic_bike,2/28/21 16:48,2/28/21 16:54,Leavitt St & Division St,658
+A2B471066301C140,classic_bike,2/25/21 12:18,2/25/21 12:44,LaSalle St & Jackson Blvd,TA1309000004
+D48835171E690F2E,classic_bike,2/9/21 13:03,2/9/21 13:16,Damen Ave & Thomas St (Augusta Blvd),TA1307000070
+97CCAC4B82F156B4,classic_bike,2/25/21 17:55,2/25/21 18:04,Damen Ave & Pierce Ave,TA1305000041
+2FB0D5F73DBA98E7,classic_bike,2/21/21 15:04,2/21/21 15:33,Ashland Ave & Division St,13061
+6811BA766085E9FE,electric_bike,2/23/21 11:55,2/23/21 12:15,Damen Ave & Wellington Ave,13268
+0F1B2CA2BC2534BF,classic_bike,2/24/21 16:56,2/24/21 17:12,Western Ave & Monroe St,15667
+69803DFC1DC8B87F,classic_bike,2/17/21 11:34,2/17/21 11:47,California Ave & Milwaukee Ave,13084
+BEEDF45C174D5013,electric_bike,2/28/21 15:50,2/28/21 15:59,Albany Ave & Bloomingdale Ave,15655
+19398565DDF557DB,classic_bike,2/11/21 14:33,2/11/21 14:41,California Ave & Cortez St,17660
+6D4D1A96830EBD3C,classic_bike,2/1/21 4:40,2/1/21 4:59,California Ave & Cortez St,17660
+9BE4DA03CEBD4342,classic_bike,2/4/21 20:03,2/4/21 20:13,Leavitt St & Chicago Ave,18058
+74BA2A757344E6E4,classic_bike,2/26/21 17:06,2/26/21 17:21,California Ave & Cortez St,17660
+48213D924E4F2396,classic_bike,2/26/21 10:48,2/26/21 11:02,Humboldt Blvd & Armitage Ave,15651
+5D11BDD29112F4E0,classic_bike,2/3/21 11:17,2/3/21 11:27,Clark St & Berwyn Ave,KA1504000146
+9C80EA93F8919448,classic_bike,2/27/21 10:10,2/27/21 10:15,Clark St & Berwyn Ave,KA1504000146
+5C968039396993E7,classic_bike,2/9/21 6:54,2/9/21 6:58,Clark St & Bryn Mawr Ave,KA1504000151
+E9AE0400C9635C83,classic_bike,2/12/21 14:11,2/12/21 14:14,McClurg Ct & Erie St,KA1503000041
+7798B026C163E7E2,classic_bike,2/26/21 11:58,2/26/21 12:07,Western Ave & Monroe St,15667
+4860CA2599A36D5B,classic_bike,2/20/21 16:35,2/20/21 16:45,LaSalle Dr & Huron St,KP1705001026
+316241CC627379EC,electric_bike,2/26/21 22:35,2/26/21 22:42,Morgan St & 31st St,TA1308000046
+A223DD9EF0105240,classic_bike,2/18/21 17:58,2/18/21 18:50,Michigan Ave & 8th St,623
+7DDEE0A0B30B4687,classic_bike,2/27/21 17:14,2/27/21 17:22,State St & Randolph St,TA1305000029
+01C2A72ACEA84FE4,classic_bike,2/19/21 16:49,2/19/21 17:03,Wabash Ave & 9th St,TA1309000010
+64AD1CF71A1466D9,classic_bike,2/12/21 15:50,2/12/21 16:06,Wabash Ave & 9th St,TA1309000010
+C6B1C355BCE2E829,classic_bike,2/17/21 18:36,2/17/21 18:52,LaSalle St & Jackson Blvd,TA1309000004
+39F0ACDA880CAA06,classic_bike,2/24/21 8:05,2/24/21 8:29,Stave St & Armitage Ave,13266
+D25BA01CD84B5DA5,classic_bike,2/15/21 7:16,2/15/21 7:38,Michigan Ave & 14th St,TA1307000124
+C9A02642DE41B157,electric_bike,2/27/21 9:30,2/27/21 9:37,Carpenter St & Huron St,13196
+0D15A799D5F3EFB6,electric_bike,2/8/21 16:47,2/8/21 16:51,LaSalle St & Jackson Blvd,TA1309000004
+695340B9F12ECC78,classic_bike,2/28/21 21:09,2/28/21 21:16,Lake Shore Dr & Ohio St,TA1306000029
+7170ECE94E5E5F42,classic_bike,2/12/21 18:36,2/12/21 18:41,Michigan Ave & Lake St,TA1305000011
+21B48B71C7151791,classic_bike,2/27/21 12:53,2/27/21 13:03,State St & Pearson St,TA1307000061
+CEAEBEB5EE5342EE,classic_bike,2/19/21 17:24,2/19/21 17:24,Wood St & Taylor St (Temp),13285
+E82ECCDD7DDC6ACE,classic_bike,2/13/21 17:38,2/13/21 18:11,Wood St & Taylor St (Temp),13285
+5BDD904784607E5B,classic_bike,2/23/21 16:31,2/23/21 16:39,State St & 33rd St,13216
+DF588E188D67606F,classic_bike,2/8/21 11:46,2/8/21 11:51,Sheffield Ave & Wellington Ave,TA1307000052
+2C988C0597D1EF54,classic_bike,2/3/21 16:55,2/3/21 17:17,Clinton St & Lake St,13021
+4459DA02C15A74E5,classic_bike,2/4/21 11:07,2/4/21 11:10,Michigan Ave & 8th St,623
+2E8F593BC2488A57,classic_bike,2/19/21 20:30,2/19/21 21:15,Wabash Ave & Roosevelt Rd,TA1305000002
+637C6ABBC70304CA,classic_bike,2/25/21 17:03,2/25/21 17:08,LaSalle St & Jackson Blvd,TA1309000004
+3555EC22038371BC,classic_bike,2/27/21 10:35,2/27/21 10:55,Larrabee St & Oak St,KA1504000116
+ED80B729E9885337,electric_bike,2/4/21 7:49,2/4/21 7:55,Franklin St & Jackson Blvd,TA1305000025
+E9F55ED855DFF2D5,classic_bike,2/4/21 12:03,2/4/21 12:36,Clinton St & Roosevelt Rd,WL-008
+2465F92E873023C5,classic_bike,2/3/21 14:19,2/3/21 14:42,Fairbanks St & Superior St,18003
+577721C350D99D10,classic_bike,2/22/21 20:59,2/22/21 21:12,Wood St & Taylor St (Temp),13285
+FABDD0158D811E14,classic_bike,2/27/21 10:49,2/27/21 11:19,Clark St & Lake St,KA1503000012
+7D3D0ED14138AEB1,classic_bike,2/10/21 17:06,2/10/21 17:11,McClurg Ct & Erie St,KA1503000041
+EF9C0C75D92012D4,classic_bike,2/4/21 18:32,2/4/21 18:43,Clark St & Lake St,KA1503000012
+DE94BF6C84FD8C15,classic_bike,2/2/21 18:07,2/2/21 18:18,Franklin St & Jackson Blvd,TA1305000025
+8E9AD0F43C72BDA5,classic_bike,2/1/21 21:12,2/1/21 21:31,Honore St & Division St,TA1305000034
+412E93D9F1B9D2E6,classic_bike,2/4/21 7:16,2/4/21 7:29,Clinton St & Madison St,TA1305000032
+48AA9392918B3797,electric_bike,2/24/21 18:35,2/24/21 18:49,California Ave & Cortez St,17660
+B26EFC2F8AB629A0,classic_bike,2/27/21 19:40,2/27/21 20:11,Michigan Ave & 8th St,623
+98460C6F66C29D45,classic_bike,2/2/21 17:11,2/2/21 17:50,LaSalle St & Jackson Blvd,TA1309000004
+CDC1975CDA7419D1,docked_bike,2/15/21 2:04,2/15/21 2:15,LaSalle St & Adams St,KA1503000034
+73542394C2F9162A,classic_bike,2/8/21 11:57,2/8/21 12:16,Central Park Ave & Elbridge Ave,15644
+34EC9762270DE5EF,classic_bike,2/23/21 20:50,2/23/21 20:55,Clark St & Chicago Ave,13303
+BFEA0327E8B12575,classic_bike,2/9/21 9:03,2/9/21 9:27,Michigan Ave & 14th St,TA1307000124
+A899482794849693,classic_bike,2/28/21 15:14,2/28/21 15:20,Southport Ave & Clybourn Ave,TA1309000030
+BC10C46570C3F408,classic_bike,2/27/21 17:51,2/27/21 18:18,Wood St & Hubbard St,13432
+DBA29EF3AFF0BA34,electric_bike,2/23/21 18:27,2/23/21 18:37,Wells St & Evergreen Ave,TA1308000049
+2B7EBDF3331FB629,classic_bike,2/25/21 9:50,2/25/21 9:59,Field Blvd & South Water St,15534
+E518378DE22FC904,docked_bike,2/2/21 18:27,2/2/21 18:39,Wood St & Taylor St (Temp),13285
+81C4007611324614,classic_bike,2/21/21 13:52,2/21/21 14:19,Glenwood Ave & Touhy Ave,525
+C10F818AB091947A,classic_bike,2/26/21 14:27,2/26/21 14:32,Morgan St & 31st St,TA1308000046
+7486C45F0E0E5008,electric_bike,2/17/21 20:05,2/17/21 20:17,Wells St & Huron St,TA1306000012
+5E19E0E4732DF5C8,classic_bike,2/26/21 19:34,2/26/21 19:51,Halsted St & North Branch St,KA1504000117
+2FE86C3694D6F24D,electric_bike,2/26/21 7:41,2/26/21 7:54,LaSalle St & Jackson Blvd,TA1309000004
+53C0699962E937C0,classic_bike,2/28/21 21:56,2/28/21 22:10,Michigan Ave & 18th St,13150
+ABBBF2EC437CBF0D,classic_bike,2/23/21 16:12,2/23/21 16:25,Michigan Ave & 18th St,13150
+0D70C4C44225FEA7,classic_bike,2/23/21 14:49,2/23/21 15:43,Clark St & Touhy Ave,RP-007
+AD0561B6B37D8CED,classic_bike,2/22/21 18:07,2/22/21 18:10,Franklin St & Jackson Blvd,TA1305000025
+D9F5CFA569FB5D25,electric_bike,2/10/21 15:50,2/10/21 15:58,State St & 33rd St,13216
+2FA2C0F72E96FC90,classic_bike,2/8/21 10:15,2/8/21 10:41,Mies van der Rohe Way & Chestnut St,15529
+FF332943545491A9,classic_bike,2/25/21 10:22,2/25/21 10:43,Mies van der Rohe Way & Chestnut St,15529
+FC1FC861C795025E,classic_bike,2/4/21 10:19,2/4/21 10:40,Mies van der Rohe Way & Chestnut St,15529
+767171D44D21DBD1,classic_bike,2/21/21 13:48,2/21/21 14:08,Federal St & Polk St,SL-008
+AE98CB4218D8973E,classic_bike,2/27/21 12:54,2/27/21 15:01,Wells St & Polk St,SL-011
+1DF5F0099E61D81C,classic_bike,2/27/21 15:45,2/27/21 16:35,Wells St & Polk St,SL-011
+A02A226C3923ACC9,classic_bike,2/27/21 15:50,2/27/21 16:35,Wells St & Polk St,SL-011
+87F023872073E29E,classic_bike,2/20/21 17:15,2/20/21 17:30,Indiana Ave & 26th St,TA1307000005
+FF5C9FFD7D9D3E38,classic_bike,2/22/21 7:30,2/22/21 7:30,Clark St & Chicago Ave,13303
+F7F62F4366E099D4,classic_bike,2/1/21 11:46,2/1/21 11:58,State St & Randolph St,TA1305000029
+6312A3E4ED3E5950,electric_bike,2/25/21 15:11,2/25/21 15:29,Western Ave & Winnebago Ave,13068
+A7B1A551C3AC4F7A,classic_bike,2/20/21 11:20,2/20/21 11:24,Clark St & Elm St,TA1307000039
+03A8089FD302F2FF,classic_bike,2/24/21 7:09,2/24/21 7:11,Dearborn St & Erie St,13045
+0EC81DE1A56ADFEC,classic_bike,2/26/21 15:38,2/26/21 15:46,Wabash Ave & 16th St,SL-012
+5AF8991A4F1A71EB,classic_bike,2/7/21 18:38,2/7/21 18:58,Wabash Ave & Grand Ave,TA1307000117
+2A08B89A11768DDC,classic_bike,2/8/21 7:49,2/8/21 7:49,Broadway & Ridge Ave,15578
+CC4D7C59991E8BE6,classic_bike,2/13/21 7:01,2/13/21 7:04,Broadway & Ridge Ave,15578
+0432CC2DA1D97326,classic_bike,2/27/21 14:11,2/27/21 14:39,Indiana Ave & Roosevelt Rd,SL-005
+D6BA63BE6BAB2F70,classic_bike,2/9/21 15:03,2/9/21 15:32,Spaulding Ave & Division St,15654
+DBC7A0C93D8F91DD,classic_bike,2/26/21 16:06,2/26/21 16:24,Columbus Dr & Randolph St,13263
+D1C5FB123A6F1BC0,docked_bike,2/27/21 13:22,2/27/21 13:33,Ashland Ave & Chicago Ave,13247
+9348CCAE11713EC2,electric_bike,2/23/21 13:56,2/23/21 14:05,Damen Ave & Chicago Ave,13132
+8875FA9A30D148C8,classic_bike,2/22/21 12:27,2/22/21 12:40,Damen Ave & Chicago Ave,13132
+C92C9DA20EF301C1,classic_bike,2/2/21 15:32,2/2/21 15:46,Damen Ave & Grand Ave,TA1308000006
+A760434989DEE907,electric_bike,2/3/21 15:53,2/3/21 16:10,Winchester Ave & Elston Ave,KA1504000140
+E94E62491A0028AF,docked_bike,2/25/21 15:59,2/25/21 16:09,Glenwood Ave & Touhy Ave,525
+64BFF9D150CA7DB8,electric_bike,2/25/21 13:34,2/25/21 14:20,Dorchester Ave & 49th St,KA1503000069
+EBE8E963EDA3D3F0,classic_bike,2/23/21 13:35,2/23/21 13:55,Clark St & Ida B Wells Dr,TA1305000009
+D92AAC7BB6E47D08,classic_bike,2/25/21 20:28,2/25/21 20:32,Clark St & Montrose Ave,KA1503000022
+B22D00F72D708C4B,classic_bike,2/22/21 19:24,2/22/21 20:08,Clark St & Chicago Ave,13303
+1577FB9F25B1EE68,electric_bike,2/4/21 11:13,2/4/21 11:21,Campbell Ave & Montrose Ave,15623
+9C5AB4E826F4334B,classic_bike,2/8/21 17:22,2/8/21 17:29,LaSalle St & Washington St,13006
+2102A1F1AF494DAA,classic_bike,2/23/21 17:05,2/23/21 17:10,LaSalle St & Washington St,13006
+E74DB00F1D11B00E,classic_bike,2/28/21 12:17,2/28/21 12:22,Wells St & Huron St,TA1306000012
+FEB7726D63138027,electric_bike,2/19/21 11:40,2/19/21 11:57,Fairbanks St & Superior St,18003
+F5A2EA6FB29D139C,classic_bike,2/19/21 18:22,2/19/21 18:26,Canal St & Taylor St,15550
+D9583F4FEE9FD957,classic_bike,2/8/21 17:28,2/8/21 17:37,Clinton St & Madison St,TA1305000032
+581C1BAEEEA19949,classic_bike,2/22/21 21:24,2/22/21 21:25,Honore St & Division St,TA1305000034
+08022F0547A3ADE3,classic_bike,2/23/21 7:11,2/23/21 7:19,Larrabee St & Oak St,KA1504000116
+C21A77F916F0A4A9,electric_bike,2/23/21 17:14,2/23/21 17:27,Federal St & Polk St,SL-008
+751A8252182A224D,classic_bike,2/27/21 16:38,2/27/21 16:46,Ashland Ave & Chicago Ave,13247
+FF45DA4BE4127CA6,classic_bike,2/24/21 14:18,2/24/21 14:23,St. Clair St & Erie St,13016
+168896D735204E95,classic_bike,2/10/21 13:13,2/10/21 13:20,Clark St & Montrose Ave,KA1503000022
+6427E7ECE2F8ABDC,classic_bike,2/26/21 18:10,2/26/21 18:29,Michigan Ave & Lake St,TA1305000011
+D310D5A6A6585CEF,classic_bike,2/22/21 18:56,2/22/21 19:03,Broadway & Berwyn Ave,13109
+6C8AB46216C2BF8C,classic_bike,2/2/21 3:31,2/2/21 3:45,Broadway & Ridge Ave,15578
+5361DA2AC4464EA3,classic_bike,2/26/21 21:47,2/26/21 21:52,Southport Ave & Waveland Ave,13235
+5ED29D82C2E3A9F6,electric_bike,2/24/21 15:15,2/24/21 15:20,Halsted St & Roscoe St,TA1309000025
+EE464E51B9657765,classic_bike,2/24/21 18:04,2/24/21 18:36,Clark St & Lake St,KA1503000012
+6D005CC834547EDA,classic_bike,2/13/21 18:28,2/13/21 19:12,Winchester Ave & Elston Ave,KA1504000140
+A245222513292134,classic_bike,2/26/21 14:20,2/26/21 14:28,Clark St & Montrose Ave,KA1503000022
+FBC137F2AC3E8CBE,classic_bike,2/1/21 18:12,2/1/21 18:21,Larrabee St & Webster Ave,13193
+E846FE97062AAEB3,classic_bike,2/24/21 19:12,2/24/21 19:19,Larrabee St & Webster Ave,13193
+486C527C380C69E7,classic_bike,2/27/21 17:57,2/27/21 18:04,State St & 33rd St,13216
+B16868F3F30BAB6F,classic_bike,2/28/21 4:31,2/28/21 4:42,Winthrop Ave & Lawrence Ave,TA1308000021
+F799719A05C18091,classic_bike,2/27/21 4:34,2/27/21 4:45,Winthrop Ave & Lawrence Ave,TA1308000021
+8C2C73F5C5EE40C3,classic_bike,2/25/21 18:32,2/25/21 18:44,Clinton St & Madison St,TA1305000032
+11CB012B6F77710A,classic_bike,2/19/21 17:24,2/19/21 17:48,Lake Shore Dr & North Blvd,LF-005
+F5361B2C3A6B7537,electric_bike,2/27/21 18:49,2/27/21 18:55,Sheffield Ave & Wellington Ave,TA1307000052
+94D6AAF433C41EE2,classic_bike,2/25/21 12:52,2/25/21 12:56,Michigan Ave & 14th St,TA1307000124
+C17D1FA9E2E1ABA4,classic_bike,2/27/21 8:42,2/27/21 8:58,Southport Ave & Waveland Ave,13235
+52E650E2385286D1,classic_bike,2/25/21 20:08,2/25/21 20:15,McClurg Ct & Erie St,KA1503000041
+A8414474A3B64063,classic_bike,2/1/21 18:31,2/1/21 18:52,Wood St & Taylor St (Temp),13285
+876ABB6E7A80B659,electric_bike,2/25/21 11:55,2/25/21 12:03,Dearborn St & Van Buren St,624
+6AA4C6462C1C9A75,classic_bike,2/26/21 14:49,2/26/21 14:59,LaSalle St & Jackson Blvd,TA1309000004
+1AD544E25AE9BB62,classic_bike,2/26/21 16:18,2/26/21 16:25,Michigan Ave & Jackson Blvd,TA1309000002
+704385E70370FBFA,classic_bike,2/1/21 17:08,2/1/21 17:29,Michigan Ave & Jackson Blvd,TA1309000002
+9C4760183EDFCC7C,classic_bike,2/18/21 17:21,2/18/21 17:25,Wabash Ave & 9th St,TA1309000010
+FA226D85233857F7,classic_bike,2/18/21 15:55,2/18/21 16:04,Paulina Ave & North Ave,TA1305000037
+5722E27EBD985E1D,classic_bike,2/2/21 18:53,2/2/21 18:57,Honore St & Division St,TA1305000034
+3F7DDFB2FBE43A13,classic_bike,2/27/21 14:45,2/27/21 15:01,Buckingham Fountain,15541
+609FFE26A448D2A4,classic_bike,2/26/21 16:39,2/26/21 17:02,Streeter Dr & Grand Ave,13022
+1234499FBB60A4B1,classic_bike,2/27/21 14:40,2/27/21 15:04,Delano Ct & Roosevelt Rd,KA1706005007
+4CF2B28E6C545E56,classic_bike,2/8/21 16:56,2/8/21 17:12,Fairbanks St & Superior St,18003
+CF629C4CCC3E11C1,classic_bike,2/26/21 13:02,2/26/21 13:05,Damen Ave & Pierce Ave,TA1305000041
+D5A609F0B3BA9A67,classic_bike,2/26/21 7:15,2/26/21 7:26,Michigan Ave & 8th St,623
+5C8CD6B93EC81F2F,classic_bike,2/27/21 14:52,2/27/21 15:34,Theater on the Lake,TA1308000001
+DD4AA29A70BBC7B3,electric_bike,2/3/21 22:10,2/3/21 22:21,Greenview Ave & Diversey Pkwy,13294
+EE74C1FF5AFF496D,classic_bike,2/1/21 12:34,2/1/21 13:03,Daley Center Plaza,TA1306000010
+B092B9D5E242BA2A,classic_bike,2/16/21 17:20,2/16/21 17:28,Wabash Ave & 16th St,SL-012
+D637D37456ADBCF6,classic_bike,2/25/21 17:15,2/25/21 17:20,Wabash Ave & 16th St,SL-012
+17828F002EC96245,classic_bike,2/6/21 12:07,2/6/21 12:19,Wabash Ave & 16th St,SL-012
+FD0F316C69F41B17,classic_bike,2/19/21 18:50,2/19/21 18:59,Wabash Ave & 16th St,SL-012
+7F6CEBAA86A3CEAE,classic_bike,2/20/21 16:41,2/20/21 16:49,Wabash Ave & 16th St,SL-012
+6F72C06727E22F4F,classic_bike,2/10/21 23:45,2/11/21 0:09,Clinton St & Polk St,15542
+0EE228C3B27A04BA,classic_bike,2/27/21 12:20,2/27/21 12:27,Claremont Ave & Hirsch St,13245
+6EB5E364E46F8CB3,classic_bike,2/27/21 15:39,2/27/21 16:07,Mies van der Rohe Way & Chestnut St,15529
+644D16C8702A400A,electric_bike,2/28/21 11:41,2/28/21 12:06,Clarendon Ave & Leland Ave,TA1307000119
+0244E41E58B6342A,classic_bike,2/9/21 14:22,2/9/21 14:38,Michigan Ave & Washington St,13001
+80F17D7294E34587,electric_bike,2/2/21 19:09,2/2/21 19:17,Lincoln Ave & Belmont Ave,TA1309000042
+8098A35BE7BF2378,docked_bike,2/27/21 23:32,2/27/21 23:47,Milwaukee Ave & Grand Ave,13033
+4010B159073E178A,classic_bike,2/28/21 13:29,2/28/21 13:37,Lincoln Ave & Belmont Ave,TA1309000042
+001ED07923F00BA9,electric_bike,2/9/21 20:23,2/9/21 20:40,Clark St & Schiller St,TA1309000024
+DEEF807D13EBA5FF,classic_bike,2/2/21 21:02,2/2/21 21:13,Kingsbury St & Erie St,13265
+9A927062E5700487,classic_bike,2/4/21 4:47,2/4/21 4:54,Southport Ave & Roscoe St,13071
+C718E18825D6AF2F,electric_bike,2/27/21 9:07,2/27/21 9:24,Kedzie Ave & Milwaukee Ave,13085
+057DA750EE3B73D1,classic_bike,2/14/21 3:23,2/14/21 3:34,Stockton Dr & Wrightwood Ave,13276
+354F75C40FA3D4DB,classic_bike,2/25/21 16:38,2/25/21 16:45,LaSalle St & Jackson Blvd,TA1309000004
+142510DC1A0A3E29,classic_bike,2/7/21 18:58,2/7/21 19:26,California Ave & Cortez St,17660
+8A45CE73E4D9B781,classic_bike,2/23/21 22:58,2/23/21 23:25,Clinton St & Roosevelt Rd,WL-008
+29784C3CBE29B688,classic_bike,2/8/21 23:32,2/9/21 0:01,Clinton St & Roosevelt Rd,WL-008
+057DF2CA35EC2E18,classic_bike,2/13/21 17:46,2/13/21 18:03,Halsted St & North Branch St,KA1504000117
+1F9645C7A4FD674E,electric_bike,2/12/21 12:59,2/12/21 13:11,Clarendon Ave & Leland Ave,TA1307000119
+3BB8A57EE68369B7,electric_bike,2/26/21 13:05,2/26/21 13:18,Clarendon Ave & Leland Ave,TA1307000119
+D0312C387A21CE6F,classic_bike,2/12/21 7:41,2/12/21 7:51,St. Louis Ave & Fullerton Ave,KA1504000090
+ECCF344007A84C99,classic_bike,2/24/21 12:33,2/24/21 12:56,Theater on the Lake,TA1308000001
+E5242BA4645BF73B,classic_bike,2/18/21 3:11,2/18/21 3:39,Pulaski Rd & Congress Pkwy,535
+F644C1930FADAC52,classic_bike,2/24/21 12:18,2/24/21 12:29,Broadway & Belmont Ave,13277
+8C010074FFE8B97A,classic_bike,2/7/21 15:16,2/7/21 15:25,Aberdeen St & Monroe St,13156
+D27552FB59FB5846,classic_bike,2/1/21 17:12,2/1/21 17:38,Lakefront Trail & Bryn Mawr Ave,KA1504000152
+261B390F04B4EE85,classic_bike,2/4/21 11:39,2/4/21 12:07,Lakefront Trail & Bryn Mawr Ave,KA1504000152
+9FEF14CA71E927F3,classic_bike,2/3/21 12:22,2/3/21 12:53,Lakefront Trail & Bryn Mawr Ave,KA1504000152
+3C2AD70CF00C477C,electric_bike,2/11/21 11:00,2/11/21 11:37,LaSalle St & Washington St,13006
+7EDA0DB96BE86245,classic_bike,2/2/21 10:44,2/2/21 10:53,Wood St & Milwaukee Ave,13221
+6D9C823C9FA79739,classic_bike,2/27/21 13:03,2/27/21 15:10,Wells St & Polk St,SL-011
+1A795CE439640796,electric_bike,2/26/21 17:20,2/26/21 17:26,Lincoln Ave & Fullerton Ave,TA1309000058
+01685FC40331ADB8,electric_bike,2/3/21 18:06,2/3/21 18:41,Winthrop Ave & Lawrence Ave,TA1308000021
+4270E0E8B4F0E371,electric_bike,2/26/21 14:45,2/26/21 14:56,Kilbourn Ave & Milwaukee Ave,16994
+B1893BA60B66971B,classic_bike,2/14/21 23:28,2/14/21 23:45,Sheridan Rd & Montrose Ave,TA1307000107
+8520C1AD9F96FE7D,classic_bike,2/24/21 9:10,2/24/21 9:14,Broadway & Cornelia Ave,13278
+56BBD97162DB7D24,classic_bike,2/23/21 17:02,2/23/21 17:19,Broadway & Cornelia Ave,13278
+E76B8A3DA2252F90,electric_bike,2/5/21 23:38,2/5/21 23:48,Michigan Ave & Lake St,TA1305000011
+D068BE5127268A73,electric_bike,2/25/21 16:45,2/25/21 17:01,Southport Ave & Waveland Ave,13235
+3B31BB8457B6AD77,classic_bike,2/8/21 7:22,2/8/21 7:33,Chicago Ave & Washington St,E002
+9FD64E402FCEBA45,electric_bike,2/27/21 12:11,2/27/21 12:35,Washtenaw Ave & Lawrence Ave,KA1504000080
+4BBC4078C71F4DB2,electric_bike,2/28/21 13:53,2/28/21 13:59,Pine Grove Ave & Irving Park Rd,TA1308000022
+0950840D43F14D9B,classic_bike,2/25/21 17:28,2/25/21 17:36,Pine Grove Ave & Irving Park Rd,TA1308000022
+A4A306F4CFDB6746,classic_bike,2/6/21 14:17,2/6/21 14:28,Sheridan Rd & Buena Ave,TA1309000027
+9A6055665E5EF1E9,classic_bike,2/26/21 8:11,2/26/21 13:18,Glenwood Ave & Touhy Ave,525
+97569CE4EDCF515A,classic_bike,2/26/21 21:49,2/26/21 22:15,Milwaukee Ave & Grand Ave,13033
+A5870EC59913C4EF,classic_bike,2/28/21 11:43,2/28/21 12:06,2112 W Peterson Ave,KA1504000155
+5F59A132EAE4F5BB,electric_bike,2/28/21 13:11,2/28/21 13:25,Clark St & Wrightwood Ave,TA1305000014
+2CAF0347438F051E,electric_bike,2/26/21 17:16,2/26/21 17:27,Logan Blvd & Elston Ave,TA1308000031
+90F86F350A449120,classic_bike,2/27/21 19:20,2/27/21 19:35,Keystone Ave & Montrose Ave,KA1504000164
+F3EE768A16F3BBB4,classic_bike,2/13/21 10:28,2/13/21 10:36,Avers Ave & Belmont Ave,15640
+CD66E4A8AFCB0140,classic_bike,2/28/21 22:11,2/28/21 22:33,Orleans St & Chestnut St (NEXT Apts),620
+2FEB9EF4EBE5B885,classic_bike,2/6/21 23:27,2/6/21 23:35,Halsted St & Wrightwood Ave,TA1309000061
+D965249C23C0951C,classic_bike,2/23/21 19:22,2/23/21 19:37,Wells St & Concord Ln,TA1308000050
+019FB2B08D8B02B8,electric_bike,2/7/21 19:35,2/7/21 20:15,Ashland Ave & Division St,13061
+16CA942F95AECA3A,electric_bike,2/27/21 13:01,2/27/21 13:06,Clarendon Ave & Gordon Ter,13379
+EF123E4F91D9F8F8,classic_bike,2/27/21 18:54,2/27/21 19:29,Clarendon Ave & Junior Ter,13389
+8B46BFF92F172463,electric_bike,2/27/21 20:30,2/27/21 20:37,Clarendon Ave & Junior Ter,13389
+1C5C13CB4078533E,classic_bike,2/4/21 16:23,2/4/21 16:37,Clark St & Armitage Ave,13146
+B15398775BD164B0,classic_bike,2/27/21 18:36,2/27/21 18:54,Kedzie Ave & Milwaukee Ave,13085
+5C1A15D23B07D795,classic_bike,2/1/21 17:46,2/1/21 18:04,Broadway & Ridge Ave,15578
+65DF72C80ACCAB19,electric_bike,2/27/21 17:59,2/27/21 18:02,Central Park Ave & Elbridge Ave,15644
+E6E7D034719016E5,classic_bike,2/27/21 14:09,2/27/21 14:15,St. Louis Ave & Balmoral Ave,KA1504000161
+08DE35E7680BC6A4,classic_bike,2/2/21 18:14,2/2/21 18:33,Clark St & Armitage Ave,13146
+D1E8909643EAC9A2,classic_bike,2/11/21 18:49,2/11/21 19:22,Ravenswood Ave & Irving Park Rd,TA1307000149
+CE18A47097795E8C,classic_bike,2/26/21 15:57,2/26/21 16:04,LaSalle St & Jackson Blvd,TA1309000004
+D629DB34F9D20F54,docked_bike,2/24/21 22:35,2/24/21 23:49,Ashland Ave & Blackhawk St,13224
+A6D64FFD4D918D2A,classic_bike,2/28/21 20:27,2/28/21 20:30,Clark St & Ida B Wells Dr,TA1305000009
+9C02307D23369019,classic_bike,2/1/21 10:26,2/1/21 10:42,Larrabee St & Kingsbury St,TA1306000009
+12C9628A7D30F9F8,docked_bike,2/24/21 19:17,2/24/21 19:34,Aberdeen St & Monroe St,13156
+32EE3D4F77B2195B,classic_bike,2/27/21 15:25,2/27/21 16:11,University Library (NU),605
+48110B0602C88C53,electric_bike,2/21/21 0:27,2/21/21 1:17,Ritchie Ct & Banks St,KA1504000134
+41BD4451ACA0C03E,classic_bike,2/28/21 12:07,2/28/21 12:40,Cornell Ave & Hyde Park Blvd,KA1503000007
+83EA6DC216E4E8AD,classic_bike,2/12/21 16:09,2/12/21 16:58,Cornell Ave & Hyde Park Blvd,KA1503000007
+708F7C913ED2AF01,classic_bike,2/28/21 17:54,2/28/21 17:57,Greenview Ave & Jarvis Ave,520
+DAD5147E6D7074E1,classic_bike,2/26/21 16:36,2/26/21 16:54,Seeley Ave & Roscoe St,13144
+51989AC82C76EEA9,electric_bike,2/23/21 13:37,2/23/21 13:41,Clark St & Jarvis Ave,517
+D65D19E9BF41C086,docked_bike,2/27/21 15:34,2/27/21 15:54,Kingsbury St & Erie St,13265
+A1808F6C4946B06B,electric_bike,2/12/21 10:31,2/12/21 10:35,Wabash Ave & Roosevelt Rd,TA1305000002
+E94CDB90F360A9BF,classic_bike,2/26/21 19:37,2/26/21 19:56,Clinton St & Madison St,TA1305000032
+203E5D64AA12E6A5,classic_bike,2/12/21 17:18,2/12/21 17:30,Wells St & Huron St,TA1306000012
+9C9D03D65089584A,electric_bike,2/12/21 17:15,2/12/21 17:31,Clinton St & Jackson Blvd,638
+DF15F8FFA9F99FA1,classic_bike,2/12/21 16:04,2/12/21 16:57,Harper Ave & 59th St,KA1503000070
+749D2BA7271D8285,classic_bike,2/5/21 13:54,2/5/21 14:15,Elizabeth (May) St & Fulton St,13197
+4FBADB0E8A437D75,classic_bike,2/25/21 17:52,2/25/21 17:55,Federal St & Polk St,SL-008
+AB7CA387D7FE2B14,classic_bike,2/24/21 17:01,2/24/21 17:11,Clinton St & Lake St,13021
+2545DC4A81A22F7E,docked_bike,2/27/21 4:16,2/27/21 4:42,Lake Shore Dr & North Blvd,LF-005
+C7F7063446342081,classic_bike,2/8/21 14:02,2/8/21 14:24,Glenwood Ave & Touhy Ave,525
+9D6B970DCB8C0019,classic_bike,2/6/21 10:53,2/6/21 11:10,Wells St & Evergreen Ave,TA1308000049
+DC015BDFD6215C28,classic_bike,2/27/21 13:46,2/27/21 14:04,Sedgwick St & Webster Ave,13191
+A96CBAE4A7D44A7B,classic_bike,2/19/21 9:53,2/19/21 10:09,Glenwood Ave & Morse Ave,KA1504000175
+51EB2250AE5846C2,classic_bike,2/28/21 1:58,2/28/21 2:07,Millennium Park,13008
+15EDE5B6FFE3DBF7,classic_bike,2/27/21 7:15,2/27/21 7:33,Southport Ave & Wellington Ave,TA1307000006
+4450E86B40689B3C,classic_bike,2/24/21 17:57,2/24/21 18:13,Mies van der Rohe Way & Chicago Ave,13338
+DE8EE25668C96049,classic_bike,2/2/21 12:47,2/2/21 13:24,Canal St & Adams St,13011
+64F4260626E3A40B,classic_bike,2/14/21 14:05,2/14/21 14:26,Sheridan Rd & Greenleaf Ave,KA1504000159
+F9C94906B273C4AE,classic_bike,2/3/21 19:34,2/3/21 20:01,Kedzie Ave & Palmer Ct,13292
+0F5F2A69E0E76574,electric_bike,2/20/21 14:52,2/20/21 14:57,Indiana Ave & Roosevelt Rd,SL-005
+0B7D8F837487808C,classic_bike,2/3/21 18:52,2/3/21 19:23,LaSalle St & Jackson Blvd,TA1309000004
+B8FF7A0E06DA633E,classic_bike,2/9/21 16:52,2/9/21 17:03,Michigan Ave & 18th St,13150
+B06A5B160F8D9C6A,classic_bike,2/27/21 16:29,2/27/21 16:43,Clark St & Jarvis Ave,517
+5834A4FE0EB9BAE3,electric_bike,2/25/21 17:43,2/25/21 17:48,Clark St & Jarvis Ave,517
+08244C4BC7103B93,classic_bike,2/6/21 12:09,2/6/21 12:47,Clark St & Jarvis Ave,517
+AA794EE8504D8FD4,classic_bike,2/28/21 15:08,2/28/21 15:37,Lake Park Ave & 53rd St,KA1503000059
+D2198BA79B8BC426,classic_bike,2/24/21 18:23,2/24/21 18:38,Franklin St & Illinois St,RN-
+4B0141E42AC41877,classic_bike,2/2/21 18:59,2/2/21 19:12,Franklin St & Illinois St,RN-
+116637BEEAAEA3D9,classic_bike,2/25/21 12:45,2/25/21 12:55,California Ave & Division St,13256
+081007557BB5D68C,classic_bike,2/2/21 16:21,2/2/21 16:30,Stetson Ave & South Water St,TA1308000029
+AF42635698F04DA0,classic_bike,2/2/21 19:08,2/2/21 19:12,Wabash Ave & Roosevelt Rd,TA1305000002
+EB75A8FE8DB9EE4C,classic_bike,2/5/21 16:07,2/5/21 16:19,Wabash Ave & Grand Ave,TA1307000117
+A007EB4E12B7BF9A,classic_bike,2/24/21 16:33,2/24/21 16:57,Lakefront Trail & Bryn Mawr Ave,KA1504000152
+DB541650AF150A2D,classic_bike,2/2/21 12:50,2/2/21 13:15,Lakefront Trail & Bryn Mawr Ave,KA1504000152
+B19104399B83F7A4,classic_bike,2/26/21 18:58,2/26/21 19:15,Rush St & Superior St,15530
+BFD66890887992A5,classic_bike,2/23/21 17:11,2/24/21 0:06,Franklin St & Jackson Blvd,TA1305000025
+27D8731DA5776D9E,classic_bike,2/24/21 15:04,2/24/21 15:13,63rd St Beach,15491
+EC6D104C13DA63AE,classic_bike,2/8/21 11:42,2/8/21 12:33,Lakefront Trail & Bryn Mawr Ave,KA1504000152
+13E862D4DEB9AAD5,classic_bike,2/12/21 13:00,2/12/21 13:29,Michigan Ave & Washington St,13001
+3CE515303097C0A9,classic_bike,2/2/21 16:45,2/2/21 17:41,California Ave & Cortez St,17660
+607ECE7A8A9EDDD5,classic_bike,2/24/21 14:51,2/24/21 15:20,University Library (NU),605
+F3BDE985464846C7,classic_bike,2/26/21 11:47,2/26/21 12:11,University Library (NU),605
+8EA2A12D882DBB08,classic_bike,2/26/21 13:15,2/26/21 13:33,Paulina St & Montrose Ave,TA1309000021
+510875B254591455,classic_bike,2/25/21 13:21,2/25/21 13:44,University Library (NU),605
+9436381945ED60E6,classic_bike,2/1/21 15:54,2/1/21 16:22,University Library (NU),605
+9584A8B4076FC852,classic_bike,2/23/21 14:33,2/23/21 15:01,University Library (NU),605
+326DD1DC5C1107AE,docked_bike,2/1/21 16:24,2/1/21 16:32,Ashland Ave & 13th St,13354
+1C529B43359A507A,electric_bike,2/6/21 13:46,2/6/21 14:01,Michigan Ave & Jackson Blvd,TA1309000002
+693065B74DB6F6FA,classic_bike,2/27/21 10:26,2/27/21 11:05,Michigan Ave & 18th St,13150
+B84727A175575F03,classic_bike,2/9/21 11:07,2/9/21 11:37,Paulina St & 18th St,TA1307000159
+D3100D95CAAB1155,classic_bike,2/28/21 13:10,2/28/21 13:44,Kimbark Ave & 53rd St,TA1309000037
+EE00143CA08BDFCE,classic_bike,2/28/21 16:23,2/28/21 16:34,Oakley Ave & Irving Park Rd,KA1504000158
+52F2A3AD262EB75A,classic_bike,2/21/21 7:37,2/21/21 8:48,California Ave & Cortez St,17660
+32A639F510DA6D47,classic_bike,2/27/21 16:19,2/27/21 16:49,Loomis St & Lexington St,13332
+A25BCFA0AF8D9B97,electric_bike,2/23/21 18:28,2/23/21 18:39,Leavitt St & North Ave,TA1308000005
+05D644E69E385FB8,classic_bike,2/26/21 17:15,2/26/21 17:22,Wood St & Taylor St (Temp),13285
+704B0A889179E255,classic_bike,2/25/21 17:34,2/25/21 17:42,Wood St & Taylor St (Temp),13285
+057371C96D4164E4,docked_bike,2/27/21 12:36,2/27/21 12:52,Lincoln Ave & Roscoe St,TA1307000138
+9F762B5DA5D4E8ED,docked_bike,2/27/21 12:36,2/27/21 12:53,Lincoln Ave & Roscoe St,TA1307000138
+33172E82C3DA3DDA,electric_bike,2/3/21 13:47,2/3/21 13:55,Wabash Ave & Grand Ave,TA1307000117
+A81A307693F9EF82,classic_bike,2/27/21 14:32,2/27/21 14:59,Loomis St & Archer Ave,KA1503000040
+FA20C813BDBC4F77,classic_bike,2/26/21 17:09,2/26/21 17:25,Dearborn St & Erie St,13045
+29A890AD084A5169,classic_bike,2/26/21 17:09,2/26/21 17:25,Dearborn St & Erie St,13045
+B3C075421ABB9744,classic_bike,2/11/21 17:48,2/11/21 17:56,Wood St & Taylor St (Temp),13285
+46DD2C97563D0DB9,classic_bike,2/23/21 17:34,2/23/21 17:43,Wood St & Taylor St (Temp),13285
+03AEABAF3A943079,docked_bike,2/6/21 10:05,2/7/21 7:55,Wilton Ave & Belmont Ave,TA1307000134
+7643243CC62BFB89,classic_bike,2/28/21 15:59,2/28/21 16:27,Sheffield Ave & Wellington Ave,TA1307000052
+9E8665F6FFE47A58,classic_bike,2/20/21 16:15,2/20/21 16:22,Damen Ave & Division St,13136
+8C34D08AEB2D0EF9,classic_bike,2/28/21 15:59,2/28/21 16:27,Sheffield Ave & Wellington Ave,TA1307000052
+C5540BE5C4CF991C,classic_bike,2/27/21 16:24,2/27/21 16:50,Lake Park Ave & 47th St,TA1308000035
+83A11DFD1FCB6B00,docked_bike,2/28/21 12:58,2/28/21 13:25,Dusable Harbor,KA1503000064
+F8413CAC6630DAAA,classic_bike,2/20/21 14:12,2/20/21 14:31,Leavitt St & Armitage Ave,TA1309000029
+28E48F00082B28E3,classic_bike,2/27/21 0:06,2/27/21 0:13,California Ave & Milwaukee Ave,13084
+5AB80D8B9CC06A9A,classic_bike,2/27/21 23:35,2/27/21 23:40,Michigan Ave & 14th St,TA1307000124
+8CEAB8C746B9F394,classic_bike,2/2/21 17:24,2/2/21 17:46,Clinton St & Jackson Blvd,638
+BD6C21AA7B2CFD8B,classic_bike,2/11/21 19:01,2/11/21 19:12,Sheffield Ave & Kingsbury St,13154
+27C588817764A215,classic_bike,2/25/21 9:27,2/25/21 9:31,Blue Island Ave & 18th St,13135
+84804EA197CFD05E,docked_bike,2/26/21 10:28,2/26/21 11:36,California Ave & 21st St,13096
+CF3ACF7013813E98,classic_bike,2/12/21 14:13,2/12/21 14:18,Racine Ave & 18th St,13164
+37AE3F754D16A062,classic_bike,2/8/21 13:57,2/8/21 14:04,Damen Ave & Sunnyside Ave,TA1309000012
+7291B3834390DB2F,classic_bike,2/8/21 11:55,2/8/21 12:03,Racine Ave & 15th St,13304
+02E3F167A87F6A5C,classic_bike,2/27/21 16:05,2/27/21 16:40,Ellis Ave & 55th St,KA1504000076
+7522E007F0AA2FD5,classic_bike,2/26/21 13:16,2/26/21 13:19,State St & Harrison St,SL-007
+32543BD05F3E2ABB,classic_bike,2/28/21 11:43,2/28/21 12:30,Lake Park Ave & 53rd St,KA1503000059
+211FE07557AF3A5C,classic_bike,2/25/21 13:41,2/25/21 13:50,Ravenswood Ave & Irving Park Rd,TA1307000149
+F12405F158526CDB,classic_bike,2/28/21 13:56,2/28/21 14:25,Wood St & Augusta Blvd,657
+8CD0DEEAC2B53BEC,classic_bike,2/14/21 12:30,2/14/21 12:43,Ravenswood Ave & Berteau Ave,TA1309000018
+12479153647CC63C,classic_bike,2/21/21 14:17,2/21/21 14:51,State St & 33rd St,13216
+02F752B4F96D3523,classic_bike,2/4/21 13:07,2/4/21 13:16,Field Museum,13029
+D87564D06F08F98E,classic_bike,2/5/21 16:37,2/5/21 16:58,Aberdeen St & Monroe St,13156
+E0F65841D369D55A,classic_bike,2/27/21 11:33,2/27/21 11:48,Aberdeen St & Monroe St,13156
+D94A83F596EE7140,docked_bike,2/26/21 14:47,2/26/21 15:07,Michigan Ave & Jackson Blvd,TA1309000002
+211EDE6EF6DB5C59,classic_bike,2/23/21 10:59,2/23/21 11:11,Morgan Ave & 14th Pl,TA1306000002
+2217148276F57967,classic_bike,2/28/21 15:16,2/28/21 15:30,Clark St & Lake St,KA1503000012
+5963F95DB8B42C2E,electric_bike,2/27/21 13:50,2/27/21 14:01,Clark St & Winnemac Ave,TA1309000035
+6B9F86C4C8E99A51,classic_bike,2/24/21 16:33,2/24/21 16:37,Blue Island Ave & 18th St,13135
+5E9BA104A97BA41A,classic_bike,2/28/21 13:01,2/28/21 13:08,Ashland Ave & 13th St,13354
+4E45E559380C8370,classic_bike,2/23/21 15:57,2/23/21 16:11,Damen Ave & Wellington Ave,13268
+E960F703F3412DD9,classic_bike,2/4/21 17:08,2/4/21 17:15,Campbell Ave & Montrose Ave,15623
+00F8911A73F4BC31,classic_bike,2/28/21 9:58,2/28/21 10:40,Laflin St & Cullerton St,13307
+B52DE336CABE3BE7,electric_bike,2/27/21 22:14,2/27/21 22:36,Sheffield Ave & Wellington Ave,TA1307000052
+36FECFA6972A3675,classic_bike,2/6/21 12:29,2/6/21 12:56,Daley Center Plaza,TA1306000010
+7BA7B782080B1A24,electric_bike,2/24/21 13:47,2/24/21 14:13,Smith Park,643
+F93C0DFAE9A09B62,classic_bike,2/27/21 13:43,2/27/21 14:06,Franklin St & Jackson Blvd,TA1305000025
+384746994B2A939E,classic_bike,2/12/21 11:46,2/12/21 12:16,Broadway & Waveland Ave,13325
+BED376048596DA93,classic_bike,2/9/21 13:51,2/9/21 14:28,Broadway & Waveland Ave,13325
+6EF0F135FE037A41,classic_bike,2/28/21 13:00,2/28/21 13:09,Ashland Ave & 13th St,13354
+F385BDBF9EC34E29,docked_bike,2/28/21 13:58,2/28/21 14:26,Streeter Dr & Grand Ave,13022
+31C2EBA9830FF23D,classic_bike,2/23/21 14:45,2/23/21 15:09,Streeter Dr & Grand Ave,13022
+34B9085FB9C34AE6,classic_bike,2/11/21 18:02,2/11/21 18:29,Damen Ave & Pierce Ave,TA1305000041
+8B3FD56335240A8D,classic_bike,2/27/21 16:33,2/27/21 16:49,Dusable Harbor,KA1503000064
+9D977F95FABFFA9A,electric_bike,2/9/21 19:49,2/9/21 20:07,Marshfield Ave & Cortland St,TA1305000039
+FE47A4252752B6D4,classic_bike,2/23/21 12:54,2/23/21 13:40,Wabash Ave & 9th St,TA1309000010
+5DD5731581E3F98E,classic_bike,2/26/21 17:31,2/26/21 18:32,Fort Dearborn Dr & 31st St,TA1307000048
+71A9135BE5F54DE8,electric_bike,2/27/21 20:45,2/27/21 20:58,Wabash Ave & 9th St,TA1309000010
+6566C3074DE7BF46,classic_bike,2/1/21 9:50,2/1/21 10:05,Columbus Dr & Randolph St,13263
+17A5925E26DB2D22,electric_bike,2/1/21 12:54,2/1/21 12:59,Wolcott (Ravenswood) Ave & Montrose Ave,TA1307000144
+85B0DE50871AC8A5,classic_bike,2/28/21 16:10,2/28/21 16:22,Kedzie Ave & Milwaukee Ave,13085
+70213AEB3D97E61F,classic_bike,2/27/21 9:54,2/27/21 10:01,Wolcott (Ravenswood) Ave & Montrose Ave,TA1307000144
+46D912897D64418A,classic_bike,2/27/21 15:59,2/27/21 16:32,Fort Dearborn Dr & 31st St,TA1307000048
+BF0632A3D19810B3,classic_bike,2/2/21 9:44,2/2/21 9:48,Aberdeen St & Randolph St,18062
+067577DFAB265DD7,classic_bike,2/22/21 13:04,2/22/21 13:38,Lake Shore Dr & Ohio St,TA1306000029
+61F9DBB249977C59,electric_bike,2/26/21 19:41,2/26/21 19:54,Ashland Ave & Lake St,13073
+84F2144F7C0E4B10,electric_bike,2/26/21 21:07,2/26/21 21:18,Wood St & Milwaukee Ave,13221
+5286209BFA3B3266,docked_bike,2/27/21 14:20,2/27/21 16:32,Theater on the Lake,TA1308000001
+9F225168FB1B577F,electric_bike,2/27/21 16:48,2/27/21 19:34,Indiana Ave & Roosevelt Rd,SL-005
+D6B02F713BAC52AB,electric_bike,2/9/21 16:24,2/9/21 16:29,Lincoln Ave & Belle Plaine Ave,TA1309000026
+56630287642AB40D,classic_bike,2/27/21 15:18,2/27/21 15:27,Albany Ave & Montrose Ave,15621
+F7875C4F95261E18,classic_bike,2/25/21 19:27,2/25/21 19:42,Damen Ave & Charleston St,13288
+3C5CF019412331D1,classic_bike,2/27/21 15:04,2/27/21 15:42,Shore Dr & 55th St,TA1308000009
+005CCE5FA732EE50,electric_bike,2/24/21 8:04,2/24/21 8:12,Loomis St & Jackson Blvd,13206
+14E957BE5BD7A5CF,classic_bike,2/27/21 16:03,2/27/21 16:30,Clinton St & 18th St,TA1307000044
+6F1AADB08FAD9A3E,classic_bike,2/10/21 17:05,2/10/21 17:08,Clinton St & Polk St,15542
+83C9C476DEF07E87,classic_bike,2/11/21 6:41,2/11/21 6:49,Wells St & Polk St,SL-011
+E9049B0ED032F95C,classic_bike,2/25/21 18:14,2/25/21 18:43,Wabash Ave & Roosevelt Rd,TA1305000002
+13CE0BFAAB7B8270,classic_bike,2/26/21 18:54,2/26/21 19:00,Clinton St & Madison St,TA1305000032
+CD10FC657A82C6F5,classic_bike,2/25/21 16:48,2/25/21 16:51,Lake Park Ave & 47th St,TA1308000035
+FFB1A9906243C965,classic_bike,2/25/21 17:50,2/25/21 18:10,Dorchester Ave & 49th St,KA1503000069
+5E53A6145EDC7938,classic_bike,2/27/21 22:52,2/27/21 23:05,Dorchester Ave & 49th St,KA1503000069
+A0A32EC4BD52BB07,electric_bike,2/25/21 16:11,2/25/21 16:21,Damen Ave & Melrose Ave,13143
+5501B2F1F20B1484,classic_bike,2/25/21 17:50,2/25/21 18:10,Dorchester Ave & 49th St,KA1503000069
+B0AC01CB857A1E75,docked_bike,2/16/21 2:26,2/16/21 2:26,Loomis Blvd & 84th St,20121
+552410675346DF1E,classic_bike,2/1/21 17:17,2/1/21 17:28,Franklin St & Monroe St,TA1309000007
+A4414C678D648312,classic_bike,2/28/21 16:20,2/28/21 17:17,Manor Ave & Leland Ave,KA1504000127
+FF8A16B71C279F5F,classic_bike,2/10/21 7:04,2/10/21 7:13,Michigan Ave & 8th St,623
+889E5EEBCFF9F9EF,classic_bike,2/26/21 12:05,2/26/21 12:10,Canal St & Adams St,13011
+092B6258FD85E9F5,classic_bike,2/5/21 7:36,2/5/21 7:42,Sheridan Rd & Irving Park Rd,13063
+F83C1412AA40339B,electric_bike,2/2/21 7:40,2/2/21 8:01,Damen Ave & Pierce Ave,TA1305000041
+587766A4E2C686DF,classic_bike,2/27/21 13:38,2/27/21 13:54,Clark St & Bryn Mawr Ave,KA1504000151
+DB971C2834ABFE6A,classic_bike,2/2/21 19:46,2/2/21 19:52,Pine Grove Ave & Waveland Ave,TA1307000150
+142844B910597A54,classic_bike,2/28/21 13:13,2/28/21 13:51,Canal St & Madison St,13341
+AC9C612F5B2FE08F,classic_bike,2/25/21 15:53,2/25/21 16:26,Lake Park Ave & 56th St,TA1309000063
+2A3AEF012AFCB1C1,classic_bike,2/10/21 10:19,2/10/21 10:23,Broadway & Cornelia Ave,13278
+5F9AE2FD47A9A3BD,classic_bike,2/25/21 14:45,2/25/21 14:49,Broadway & Cornelia Ave,13278
+60E681A59E7785EC,electric_bike,2/27/21 15:40,2/27/21 15:54,Clark St & Lincoln Ave,13179
+0370D9A3805E43EC,classic_bike,2/27/21 16:00,2/27/21 16:12,Ashland Ave & Wrightwood Ave,13296
+133A5BCF065B1B5B,classic_bike,2/27/21 18:42,2/27/21 18:49,Sheffield Ave & Wrightwood Ave,TA1309000023
+2E1E24317818F0EC,classic_bike,2/27/21 23:56,2/28/21 0:11,Broadway & Argyle St,13108
+DC18259757802B32,classic_bike,2/27/21 14:33,2/27/21 14:43,Clark St & Drummond Pl,TA1307000142
+BB8C73821818B213,classic_bike,2/27/21 10:58,2/27/21 11:08,Lake Shore Dr & Diversey Pkwy,TA1309000039
+6E41C801D32B22EA,classic_bike,2/1/21 18:06,2/1/21 18:19,Southport Ave & Irving Park Rd,TA1309000043
+5191A34875DE39D7,classic_bike,2/23/21 18:00,2/23/21 18:05,Broadway & Waveland Ave,13325
+35BA4B0BFF1BBD4B,electric_bike,2/26/21 19:01,2/26/21 19:28,Damen Ave & Walnut (Lake) St,KA17018054
+BEC44C7025F7EBF5,electric_bike,2/24/21 16:20,2/24/21 16:26,Clarendon Ave & Gordon Ter,13379
+602D37F4FECF26BB,classic_bike,2/27/21 16:00,2/27/21 16:44,Wells St & 19th St,SL-006
+C36ACA1FDB91CBD7,classic_bike,2/27/21 12:32,2/27/21 12:45,Halsted St & Dickens Ave,13192
+09BA50BF361DF58A,electric_bike,2/26/21 8:45,2/26/21 9:01,Normal Ave & Archer Ave,TA1308000014
+E3396DA79651B0CD,classic_bike,2/9/21 20:36,2/9/21 20:53,University Library (NU),605
+9B90B6E726E239E0,docked_bike,2/26/21 16:18,2/26/21 16:35,Halsted St & Clybourn Ave,331
+43172318D5DB4E4E,classic_bike,2/26/21 14:40,2/26/21 14:45,Southport Ave & Waveland Ave,13235
+2152D8F6202509BB,classic_bike,2/1/21 12:44,2/1/21 12:50,Southport Ave & Waveland Ave,13235
+4058D82593ACA53F,classic_bike,2/27/21 12:07,2/27/21 12:38,Field Museum,13029
+5868C42134CDA7E2,classic_bike,2/27/21 14:33,2/27/21 15:10,Streeter Dr & Grand Ave,13022
+D8F9B003A1CF626F,electric_bike,2/28/21 16:40,2/28/21 16:55,Damen Ave & Leland Ave,TA1307000158
+411C286EB6DB36B4,classic_bike,2/5/21 12:40,2/5/21 12:53,Clark St & North Ave,13128
+666A5365552F97D2,classic_bike,2/25/21 17:28,2/25/21 17:49,Morgan St & 31st St,TA1308000046
+A08FF20E42406E64,classic_bike,2/23/21 14:17,2/23/21 14:17,Morgan St & 31st St,TA1308000046
+AF614979C829FFE5,classic_bike,2/24/21 9:01,2/24/21 9:09,Broadway & Cornelia Ave,13278
+11F254BF6ADA85C6,classic_bike,2/24/21 15:59,2/24/21 16:00,Dearborn St & Adams St,TA1305000005
+ED6939AA55945399,electric_bike,2/20/21 16:38,2/20/21 16:53,Ashland Ave & Chicago Ave,13247
+EC7F25EB78529010,classic_bike,2/28/21 9:51,2/28/21 9:59,Sheridan Rd & Irving Park Rd,13063
+B138C386BE832587,classic_bike,2/25/21 17:15,2/25/21 17:23,Clark St & Armitage Ave,13146
+1105FB544790E1A3,classic_bike,2/4/21 7:37,2/4/21 7:50,Broadway & Waveland Ave,13325
+099900C3595EF945,electric_bike,2/24/21 13:55,2/24/21 14:04,Aberdeen St & Monroe St,13156
+2B3A1EB8BCC48562,classic_bike,2/25/21 22:21,2/25/21 22:26,Wilton Ave & Diversey Pkwy,TA1306000014
+5BAE2BF1A93C10AD,classic_bike,2/24/21 16:43,2/24/21 16:47,Clark St & Drummond Pl,TA1307000142
+B13DB9116FC42FD7,electric_bike,2/3/21 9:23,2/3/21 9:27,Morgan St & Lake St,TA1306000015
+92A25541204DFA5D,classic_bike,2/1/21 20:00,2/1/21 20:22,Lincoln Ave & Fullerton Ave,TA1309000058
+B6BC668B7A24696F,classic_bike,2/26/21 15:54,2/26/21 15:56,Leavitt St & North Ave,TA1308000005
+63171DE1B27B74BB,electric_bike,2/23/21 11:22,2/23/21 11:32,Wells St & Elm St,KA1504000135
+6833BFE73ACDD855,classic_bike,2/26/21 20:07,2/26/21 20:34,Wabash Ave & Wacker Pl,TA1307000131
+C65D7CD39AEE0461,electric_bike,2/18/21 21:47,2/18/21 21:55,Wabash Ave & Roosevelt Rd,TA1305000002
+265E549D994870C7,classic_bike,2/28/21 21:53,2/28/21 22:01,Wabash Ave & Roosevelt Rd,TA1305000002
+8FA4F0ED3375D94B,classic_bike,2/8/21 22:01,2/8/21 22:10,Wabash Ave & Roosevelt Rd,TA1305000002
+F57994346333C462,electric_bike,2/3/21 21:52,2/3/21 21:59,Wabash Ave & Roosevelt Rd,TA1305000002
+0AF150BAD347795C,electric_bike,2/17/21 21:53,2/17/21 22:01,Wabash Ave & Roosevelt Rd,TA1305000002
+DE20D5759FE6AC71,classic_bike,2/9/21 21:57,2/9/21 22:05,Wabash Ave & Roosevelt Rd,TA1305000002
+8DCE018433065D46,classic_bike,2/27/21 16:04,2/27/21 16:20,Sheffield Ave & Willow St,TA1306000032
+02D5872A8F5C69D4,classic_bike,2/19/21 12:13,2/19/21 12:43,Theater on the Lake,TA1308000001
+3617C4637E270E26,electric_bike,2/22/21 21:53,2/22/21 21:57,Wabash Ave & 9th St,TA1309000010
+B2720378CD4A7153,docked_bike,2/26/21 11:43,2/26/21 11:52,Kedzie Ave & Harrison St,KA1504000082
+0E3E07CA1E5EF254,classic_bike,2/11/21 13:07,2/11/21 13:13,Wells St & Huron St,TA1306000012
+8834CEEC17BCD068,classic_bike,2/1/21 18:28,2/1/21 19:05,Clark St & 9th St (AMLI),SL-009
+438B6FD50EA8DF0C,classic_bike,2/28/21 13:21,2/28/21 13:29,Lake Shore Dr & Wellington Ave,TA1307000041
+D6AB96BB881AB57B,electric_bike,2/3/21 10:52,2/3/21 10:55,Lakeview Ave & Fullerton Pkwy,TA1309000019
+935C4E82C1839A99,classic_bike,2/27/21 13:52,2/27/21 13:56,Damen Ave & Pierce Ave,TA1305000041
+0C8DB8FF80B2EE40,classic_bike,2/23/21 20:16,2/23/21 20:24,Southport Ave & Waveland Ave,13235
+8280552B9B8EBE5E,classic_bike,2/12/21 11:52,2/12/21 11:57,State St & Randolph St,TA1305000029
+925B62FFBFB16A7D,electric_bike,2/6/21 13:13,2/6/21 13:30,Broadway & Barry Ave,13137
+6BBF59878EB83E3B,electric_bike,2/26/21 15:25,2/26/21 15:39,Rush St & Cedar St,KA1504000133

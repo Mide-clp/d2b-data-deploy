@@ -23,7 +23,7 @@ data "terraform_remote_state" "storage_s3" {
 }
 
 
-data "aws_iam_policy_document" "lambda_s3_read_only_policy_generator" {
+data "aws_iam_policy_document" "lambda_s3_write_only_policy_generator" {
   statement {
     actions = var.lambda_default_policy_action
 

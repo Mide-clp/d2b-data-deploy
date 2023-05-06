@@ -5,3 +5,11 @@ module "s3_raw_layer_bucket" {
   bucket_iam_principal_user_identifiers = var.raw_bucket_arn
 
 }
+
+resource "aws_s3_object" "upload_data" {
+  bucket = module.s3_raw_layer_bucket.s3_bucket_id
+  for_each = fileset("../../data/", "**")
+  key = each.value
+  source = "../../data/${each.value}"
+  etag = filemd5("../../data/${each.value}")
+}

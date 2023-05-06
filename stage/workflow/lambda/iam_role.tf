@@ -6,7 +6,7 @@ resource "aws_iam_role" "lambda_ingestion_role" {
 
 resource "aws_iam_policy" "lambda_read_only_policy" {
   name = "lambda_read_only_policy"
-  policy = data.aws_iam_policy_document.lambda_s3_read_only_policy_generator.json
+  policy = data.aws_iam_policy_document.lambda_s3_write_only_policy_generator.json
 }
 
 resource "aws_iam_policy_attachment" "policy_attachment" {
