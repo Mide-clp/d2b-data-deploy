@@ -34,13 +34,9 @@ jobs:
         run: |
             cd stage/storage/s3
             terraform init
-            terraform plan
 
       
       - name: terraform init and plan lambda
         run: |
             cd stage/workflow/lambda
             terraform init
-
-      - name: terraform apply
-        run: terraform apply terraform.tfplan -auto-approve

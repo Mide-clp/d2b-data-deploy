@@ -3,14 +3,14 @@ module "ingestion_glue_job" {
   glue_job_name   = var.ingestion_layer_job_name
   create_role     = true
   iam_role_name   = var.ingestion_layer_role_name
-  script_location = "s3://${data.terraform_remote_state.storage_s3.outputs.helper_bucket_id}/${var.file_name}"
+  script_location = "s3://${data.terraform_remote_state.storage_s3.outputs.helper_bucket_id}/${var.ingestion_file_name}"
   tags            = var.ingestion_layer_job_tags
   create_trigger  = true
   trigger_name    = var.ingestion_layer_trigger_name
   trigger_cron_schedule = var.ingestion_layer_trigger_schedule
 
-
 }
+
 
 resource "aws_iam_policy" "glue_ingestion_write_only_policy" {
   name = "glue_ingestion_write_only_policy"
