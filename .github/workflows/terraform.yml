@@ -34,6 +34,9 @@ jobs:
         run: |
             cd stage/storage/s3
             terraform init
+            terraform plan -var raw_bucket_arn=${{secrets.USER_ARN}} \
+            -var qualified_bucket_arn=${{secrets.USER_ARN}} \
+            -var helper_bucket_arn=${{secrets.USER_ARN}}
 
       
       - name: terraform init and plan lambda

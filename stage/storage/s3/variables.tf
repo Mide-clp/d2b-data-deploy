@@ -46,6 +46,7 @@ variable "raw_bucket_tags" {
 
 variable "raw_bucket_arn" {
   type         = list(string)
+  default = [ "" ]
   description  = "list of user IAM arn to give permission to interact with the bucket"
 }
 
@@ -67,6 +68,7 @@ variable "qualified_bucket_tags" {
 
 variable "qualified_bucket_arn" {
   type         = list(string)
+  default = [ "" ]
   description  = "list of user IAM arn to give permission to interact with the bucket"
 }
 
@@ -88,5 +90,6 @@ variable "helper_bucket_tags" {
 
 variable "helper_bucket_arn" {
   type         = list(string)
+  default = [ "" ]
   description  = "list of user IAM arn to give permission to interact with the bucket"
 } 
