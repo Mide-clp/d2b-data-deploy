@@ -43,3 +43,9 @@ jobs:
         run: |
             cd stage/workflow/lambda
             terraform init
+
+      - name: terraform init and plan glue
+        run: |
+            cd stage/workflow/glue
+            terraform init
+            terraform plan
