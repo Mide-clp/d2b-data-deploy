@@ -30,22 +30,26 @@ jobs:
           role-session-name: githubTerraSession
           aws-region: ${{secrets.AWS_REGION}}
 
-      - name: terraform init and plan s3
+      - name: terraform init and plan, and apply s3
         run: |
             cd stage/storage/s3
             terraform init
             terraform plan -var raw_bucket_arn=${{secrets.USER_ARN}} \
             -var qualified_bucket_arn=${{secrets.USER_ARN}} \
-            -var helper_bucket_arn=${{secrets.USER_ARN}}
+            -var helper_bucket_arn=${{secrets.USER_ARN}} -out terraform.tfplan
+            terraform apply --auto-approve terraform.tfplan
 
       
-      - name: terraform init and plan lambda
+      - name: terraform init plan, and apply lambda
         run: |
             cd stage/workflow/lambda
             terraform init
+            terraform plan -out terraform.tfplan
+            terraform apply --auto-approve terraform.tfplan
 
-      - name: terraform init and plan glue
+      - name: terraform init plan, and apply glue
         run: |
             cd stage/workflow/glue
             terraform init
-            terraform plan
+            terraform plan -out terraform.tfplan
+            terraform apply --auto-approve terraform.tfplan
