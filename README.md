@@ -4,28 +4,7 @@
 <img src="docs_resource\arch.png">
 
 ## Folder structure
-Deploy                          
-└── stage                               
-    ├── storage                         
-    │   ├── s3                              
-    │   │   ├── qualified_layer                             
-    │   │   ├── raw_layer                               
-    │   │   └── helper_bucket                       
-    │   └── workflow                    
-    │       ├── glue                
-    │       │   ├── ingestion_layer             
-    │       │   └── processing_layer                    
-    │       └── lambda              
-    │           └── ingestion_batch_layer               
-    |           └── ingestion_ral_time_layer                
-    └── scripts             
-    |   ├── lambda          
-    |   |
-    |   └── glue.                      
-    |
-    |
-    └── data            
-        ├── file.csv                
+<img src="docs_resource\dep.png">
 
 
 ## Backend and deployment
@@ -36,20 +15,8 @@ With each resource having a different backend, they also have different deployme
 ## Backend resource
 This project uses an s3 bucket to store the state file, and dynamodb for locking.
 
+<img src="docs_resource\bud.png">
 
-bucket
-    ├── stage                           
-    │   ├── workflow                            
-    │   │   ├── glue                        
-    │       │   └── terraform.tfstate                   
-    │   │   └── lambda                          
-    │   │       └── terraform.tfstate                           
-    │   └── storage                     
-    │       └── s3                          
-    │           └── terraform.tfstate
-    │
-    └── global                      
-        └── main_backend_for_state_and_lock_resources                   
 
 ## Modules
 Each resource has its own module, such as the S3 module, which comes with a policy attachment resource. The Glue module, on the other hand, allows you to specify if it creates a role and trigger or pass an existing one as a parameter.
