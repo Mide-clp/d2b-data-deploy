@@ -1,4 +1,4 @@
-# D2b data cloud resouce deploymennt with IAC
+# D2b data cloud resouce deployment with IAC
 
 ## Architecture 
 <img src="docs_resource\arch.png">
